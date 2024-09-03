@@ -1,0 +1,12 @@
+.active{
+    background-color: black;
+    color: white;
+}
+.noactive{
+    background-color: yellow;
+}
+.noactive,
+.active {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
